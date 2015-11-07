@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task1.Logic", "Task1.Logic\Task1.Logic.csproj", "{3DC037EA-E646-437F-80FE-0AE40E1801C5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task1.ConsoleUI", "Task1.ConsoleUI\Task1.ConsoleUI.csproj", "{DAC151EE-7E45-4581-92F1-79E07A0D2895}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entities", "Entities\Entities.csproj", "{BE8268F6-FC04-4746-9507-B570D33FAA3D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3DC037EA-E646-437F-80FE-0AE40E1801C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DC037EA-E646-437F-80FE-0AE40E1801C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DC037EA-E646-437F-80FE-0AE40E1801C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DC037EA-E646-437F-80FE-0AE40E1801C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DAC151EE-7E45-4581-92F1-79E07A0D2895}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DAC151EE-7E45-4581-92F1-79E07A0D2895}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DAC151EE-7E45-4581-92F1-79E07A0D2895}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DAC151EE-7E45-4581-92F1-79E07A0D2895}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE8268F6-FC04-4746-9507-B570D33FAA3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE8268F6-FC04-4746-9507-B570D33FAA3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE8268F6-FC04-4746-9507-B570D33FAA3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE8268F6-FC04-4746-9507-B570D33FAA3D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
