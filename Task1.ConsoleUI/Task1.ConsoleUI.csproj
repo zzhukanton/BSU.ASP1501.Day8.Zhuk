@@ -48,9 +48,9 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Entities\Entities.csproj">
+    <ProjectReference Include="..\Entities\Task1.Entities.csproj">
       <Project>{be8268f6-fc04-4746-9507-b570d33faa3d}</Project>
-      <Name>Entities</Name>
+      <Name>Task1.Entities</Name>
     </ProjectReference>
     <ProjectReference Include="..\Task1.Logic\Task1.Logic.csproj">
       <Project>{3dc037ea-e646-437f-80fe-0ae40e1801c5}</Project>
